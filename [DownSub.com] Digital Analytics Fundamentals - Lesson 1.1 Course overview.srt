@@ -1,0 +1,147 @@
+1
+00:00:06,970 --> 00:00:11,649
+hi welcome to class my name is Justin
+attorney and I'm the digital analytics
+
+2
+00:00:11,650 --> 00:00:13,150
+evangelist at Google
+
+3
+00:00:13,150 --> 00:00:16,420
+one of the things i do is help people
+understand the importance of making
+
+4
+00:00:16,420 --> 00:00:19,600
+digital analytics a central part of
+their business
+
+5
+00:00:19,600 --> 00:00:23,740
+in this video I'll give you a brief
+overview of what you can expect in this
+
+6
+00:00:23,740 --> 00:00:29,229
+course this self-paced course consists
+of several components videos and text
+
+7
+00:00:29,230 --> 00:00:32,290
+lessons practice activities and of
+course assessment
+
+8
+00:00:32,860 --> 00:00:37,420
+all of these materials will help you
+learn about key concepts and tools to
+
+9
+00:00:37,420 --> 00:00:40,900
+become a better practitioner of digital
+analytics and google analytics in
+
+10
+00:00:40,900 --> 00:00:46,180
+particular the class is divided into a
+set of units each with a subset of
+
+11
+00:00:46,180 --> 00:00:50,19
+lessons and activities for you to
+complete each lesson we'll have a short
+
+12
+00:00:50,20 --> 00:00:54,880
+video with the corresponding text lesson
+to learn about the material following
+
+13
+00:00:54,880 --> 00:00:57,640
+each lesson you will complete an
+activity that will help you practice
+
+14
+00:00:57,640 --> 00:01:01,990
+what you've learned during the course
+you have the opportunity to connect with
+
+15
+00:01:01,990 --> 00:01:06,159
+a global community of participants the
+community is a place where you can
+
+16
+00:01:06,159 --> 00:01:10,420
+discuss the activities get technical
+assistance and get feedback on your work
+
+17
+00:01:11,50 --> 00:01:14,710
+you will also have the opportunity to
+join google hangouts where you'll hear
+
+18
+00:01:14,710 --> 00:01:17,979
+from experts about the course material
+and digital analytics
+
+19
+00:01:18,520 --> 00:01:22,720
+there will be a final assessment that
+reviews all of the material covered in
+
+20
+00:01:22,720 --> 00:01:26,679
+the course to earn a certificate of
+completion for the course you must
+
+21
+00:01:26,680 --> 00:01:31,180
+finish all lesson activities and pass
+the final assessment with the score of
+
+22
+00:01:31,180 --> 00:01:36,100
+at least eighty percent including the
+time it takes to watch the short videos
+
+23
+00:01:36,100 --> 00:01:40,899
+and complete the activities we expect
+the course to take four to six hours but
+
+24
+00:01:40,900 --> 00:01:44,380
+this depends on your familiarity with
+the content if you find yourself
+
+25
+00:01:44,380 --> 00:01:48,399
+spending a significant amount of time on
+a particular activity or if you get
+
+26
+00:01:48,400 --> 00:01:49,90
+stuck
+
+27
+00:01:49,90 --> 00:01:52,119
+please use the resources on the site and
+ask the community for help
+
+28
+00:01:52,930 --> 00:01:57,159
+finally be sure to check out the faq
+page to get all of the important course
+
+29
+00:01:57,159 --> 00:01:59,200
+information and any updates
+
+30
+00:01:59,200 --> 00:02:01,990
+that's it we hope you enjoy the course
+and happy learning
+
